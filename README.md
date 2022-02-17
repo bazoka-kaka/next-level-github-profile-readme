@@ -60,6 +60,12 @@
 
 - [stats] github post
 
-- <img align='left' alt="bazoka-kaka's github stats" src='https://github-readme-stats.vercel.app/api?username=bazoka-kaka&show_icons=true&hide_border=true' />
+- you have to add your stats image
+  e.g:
+  ```
+  <img align='left' alt="bazoka-kaka's github stats" src='https://github-readme-stats.vercel.app/api?username=bazoka-kaka&show_icons=true&hide_border=true' />
+  ```
+  result:
+  <img align='left' alt="bazoka-kaka's github stats" src='https://github-readme-stats.vercel.app/api?username=bazoka-kaka&show_icons=true&hide_border=true' />
 
 [stats]: https://github.com/anuraghazra/github-readme-stats
