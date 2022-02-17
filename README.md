@@ -70,7 +70,7 @@
   result:
   <br>
 
-  <img align='left' alt="bazoka-kaka's github stats" src='https://github-readme-stats.vercel.app/api?username=bazoka-kaka&show_icons=true&hide_border=true&count_private=true&theme=dracula' display='block' /><br>
+  [<img align='left' alt="bazoka-kaka's github stats" src='https://github-readme-stats.vercel.app/api?username=bazoka-kaka&show_icons=true&hide_border=true&count_private=true&theme=dracula' display='block' />]
 
 - adding top languages
   e.g:
@@ -80,6 +80,6 @@
   ```
 
   result:
-  <img align='left' alt="bazoka-kaka's github stats" src='https://github-readme-stats.vercel.app/api/top-langs/?username=bazoka-kaka&layout=compact&theme=dracula' />
+  [<img align='left' alt="bazoka-kaka's github stats" src='https://github-readme-stats.vercel.app/api/top-langs/?username=bazoka-kaka&layout=compact&theme=dracula' />]
 
 [stats]: https://github.com/anuraghazra/github-readme-stats
