@@ -12,7 +12,9 @@
 
 - if you wanna insert a link, you can do something like this:
   ```
-  [link]
+  [myPorto]
+  [myPorto]: https://portofolio-yehezkiel-wiradhika.herokuapp.com/
   ```
+  result: [myPorto]
 
-[link]: https://portofolio-yehezkiel-wiradhika.herokuapp.com/
+[myporto]: https://portofolio-yehezkiel-wiradhika.herokuapp.com/
