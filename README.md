@@ -29,3 +29,20 @@
   result: [myPorto]
 
 [myporto]: https://portofolio-yehezkiel-wiradhika.herokuapp.com/
+
+- if you wanna insert a code:
+
+  ````
+  "```"
+  some code here
+  "```"
+  ````
+
+  note:
+  don't include the ""
+
+  result:
+
+  ```
+  some code here
+  ```
