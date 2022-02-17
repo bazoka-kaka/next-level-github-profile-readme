@@ -11,6 +11,8 @@
   your text
 
 - if you wanna insert a link, you can do something like this:
+  ```
   [link]
+  ```
 
 [link]: https://portofolio-yehezkiel-wiradhika.herokuapp.com/
