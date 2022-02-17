@@ -9,6 +9,17 @@
 
 - if you wanna insert a point, just add "-" before
   your text
+  e.g:
+
+  ```
+  - first point
+  - second point
+  ```
+
+  result:
+
+  - first point
+  - second point
 
 - if you wanna insert a link, you can do something like this:
   ```
