@@ -70,7 +70,7 @@
   result:
   <br>
 
-  <img align='left' alt="bazoka-kaka's github stats" src='https://github-readme-stats.vercel.app/api?username=bazoka-kaka&show_icons=true&hide_border=true&count_private=true&theme=dracula'  /><br>
+  <img align='left' alt="bazoka-kaka's github stats" src='https://github-readme-stats.vercel.app/api?username=bazoka-kaka&show_icons=true&hide_border=true&count_private=true&theme=dracula' display='block' /><br>
 
 - adding top languages
   e.g:
