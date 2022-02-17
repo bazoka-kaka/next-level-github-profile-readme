@@ -46,3 +46,20 @@
   ```
   some code here
   ```
+
+- after all that, if you wanna push README.md
+  to your github main profile, you're gonna have to
+  push it to your username
+
+- if you wanna add horizontal lines:
+  ```
+  ---
+  ```
+
+## Github Stats
+
+- [stats] github post
+
+- <img align='left' alt="bazoka-kaka's github stats" src='https://github-readme-stats.vercel.app/api?username=bazoka-kaka&show_icons=true&hide_border=true' />
+
+[stats]: https://github.com/anuraghazra/github-readme-stats
